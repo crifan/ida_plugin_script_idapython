@@ -1,0 +1,19 @@
+{
+  "title": "IDA插件脚本：IDAPython",
+  "description": "介绍IDA中支持用Python代码调用IDAPython接口编写插件脚本，实现各种功能。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "ida_plugin_script_idapython"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/ida_plugin_script_idapython/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/ida_plugin_script_idapython/pdf/ida_plugin_script_idapython.pdf"
+    }
+  }
+}
