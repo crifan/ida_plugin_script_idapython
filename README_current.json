@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v0.8.1",
-  "lastUpdate": "20241001",
+  "latestVersion": "v0.8.2",
+  "lastUpdate": "20260115",
   "gitRepoName": "ida_plugin_script_idapython",
   "bookName": "IDA插件脚本：IDAPython",
   "bookDescription": "介绍IDA中支持用Python代码调用IDAPython接口编写插件脚本，实现各种功能。"
